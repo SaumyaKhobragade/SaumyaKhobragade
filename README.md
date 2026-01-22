@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I love Data Structures & Algorithms and solving problems on platforms like LeetCode<br><br>🌐 I’ve completed the MERN Stack and enjoy building full-stack web apps<br><br>🤖 Deeply interested in Artificial Intelligence & Machine Learning<br><br>🐍 I use Python for ML, AI, and data science<br><br>📚 Currently diving deeper into Machine Learning<br><br>🧪 Passionate about building real-world AI powered applications
+* I love Data Structures & Algorithms and solving problems on platforms like LeetCode<br><br>* I’ve completed the MERN Stack and enjoy building full-stack web apps<br><br>* Deeply interested in Artificial Intelligence & Machine Learning<br><br>* I use Python for ML, AI, and data science<br><br>* Currently diving deeper into Machine Learning<br><br>* Passionate about building real-world AI powered applications
 
 
 ## 🌐 Socials:
