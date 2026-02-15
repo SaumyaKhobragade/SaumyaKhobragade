@@ -134,11 +134,11 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api?username=SaumyaKhobragade&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
+  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api?username=SaumyaKhobragade&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaumyaKhobragade&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api/top-langs/?username=SaumyaKhobragade&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=1800&v=1" />
+  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api/top-langs/?username=SaumyaKhobragade&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=1800&v=2" />
 </p>
 
 ---
