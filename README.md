@@ -1,5 +1,9 @@
 <h1 align="center">Saumya Khobragade</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Full-Stack Developer | Competitive Programmer</h3>
+<p align="center">
+  <strong>AI & Machine Learning Enthusiast</strong> • 
+  <strong>Full-Stack Developer</strong> • 
+  <strong>Competitive Programmer</strong>
+</p>
 
 <p align="center">
   Building scalable systems • Solving complex problems • Applying AI to real-world challenges
@@ -36,7 +40,7 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +49,7 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,14 +57,14 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+
 
 ### 🤖 AI / Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -71,7 +75,7 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -84,11 +88,11 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 
 ## 🏆 Hackathon Achievements
 
-- 🥈 **HackNagpur 2.0 (National Level)** — 2nd Place | ₹50,000 Prize  
-- 🥉 **Technex Hackathon (National Level)** — 3rd Place | ₹10,000 Prize  
-- 🥉 **ByteQuest (National Level)** — 3rd Place | ₹2,000 Prize  
-- 🥈 **Ecothon (Intra-College)** — 2nd Place | ₹2,500 Prize  
-- 🏅 **FileCoin Hackathon (Intra-College)** — 4th Place | ₹1,500 Prize  
+- **HackNagpur 2.0 (National Level)** — 2nd Place | ₹50,000  
+- **Technex Hackathon (National Level)** — 3rd Place | ₹10,000  
+- **ByteQuest (National Level)** — 3rd Place | ₹2,000  
+- **Ecothon (Intra-College)** — 2nd Place | ₹2,500  
+- **FileCoin Hackathon (Intra-College)** — 4th Place | ₹1,500  
 
 ---
 
@@ -96,7 +100,7 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 
 <p align="center">
   <a href="https://leetcode.com/u/SaumyaK_09/">
-    <img src="https://leetcard.jacoblin.cool/SaumyaK_09?theme=light&font=baloo&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/SaumyaK_09?theme=nord&font=baloo&ext=contest" />
   </a>
 </p>
 
@@ -134,9 +138,9 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api?username=SaumyaKhobragade&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" />
+  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api?username=SaumyaKhobragade&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&cache_seconds=1800&v=4" />
   <br/>
-  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api/top-langs/?username=SaumyaKhobragade&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=1800&v=2" />
+  <img src="https://github-readme-stats-saumyakhobragades-projects.vercel.app/api/top-langs/?username=SaumyaKhobragade&theme=github_dark&layout=compact&hide_border=true&border_radius=8&cache_seconds=1800&v=4" />
 </p>
 
 ---
@@ -150,4 +154,10 @@ My primary focus is Artificial Intelligence and Machine Learning, with the goal 
   <a href="mailto:khobragadesaumya@gmail.com">
     <img src="https://img.shields.io/badge/Email-khobragadesaumya-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  Open to impactful opportunities in AI, ML, and scalable backend systems.
 </p>
